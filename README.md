@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi, I am Vaidik Saxena:
 Hello! I'm a passionate full-stack developer with a love for creating beautiful, functional, and user-friendly applications. With expertise in modern web technologies, I enjoy turning complex problems into simple, elegant solutions.<br><br>My journey in tech began with curiosity and has evolved into a career focused on building scalable applications, optimizing user experiences, and staying at the forefront of technological innovation. I believe in writing clean, maintainable code and collaborating effectively with teams to deliver exceptional results.<br><br>When I'm not coding, you'll find me exploring new technologies, contributing to open-source projects, or sharing knowledge with the developer community. I'm always excited to take on new challenges and learn something new every day.
 
 
